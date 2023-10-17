@@ -2,7 +2,7 @@
 # Subscriber-s-Galore-Exploring-world-s-Topmost-Youtube-channels
 
 
-Tableau Public link for Dashboard:    https://public.tableau.com/views/NMYTDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+Tableau Public link for Dashboard:    https://public.tableau.com/views/NMYTDashboard2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
@@ -10,5 +10,6 @@ Tableau Public link for story:     https://public.tableau.com/views/NMYTStoryDas
 
 
 
-Video demonstration link:   https://recorder.page.link/Best
+Video demonstration link:   https://drive.google.com/file/d/1nHO5TFvmwz9RiW4NBvfF6RqVfVD4J7ly/view?usp=drivesdk
+
  
